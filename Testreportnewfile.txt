@@ -1,0 +1,4 @@
+ssh-SHA256:hPY5GHlnWd5hDaMREzm/98gkH7/Cqwp8Aa6IC0l9/CQ chandru.aug06@gmail.com
+
+-rw-r--r-- 1 Chandrashekhar Nayak 197608 3434 Oct  9 09:17 id_rsa
+-rw-r--r-- 1 Chandrashekhar Nayak 197608  749 Oct  9 09:17 id_rsa.pub
